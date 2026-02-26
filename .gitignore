@@ -1,0 +1,13 @@
+# Environnements
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Données (gros fichiers)
+*.csv
